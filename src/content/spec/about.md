@@ -1,9 +1,18 @@
 # 关于我
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 个人介绍
+> 昵称：Althea
+>
+> 爱好：ACG、编程
+>
+> 专业：计算机科学与技术
+>
+> 邮箱：<1327172206@qq.com>
+>
+> 在学编程语言：C/C++、Java、HTML、CSS、JavaScript、TypeScript、SQL
+                                
+## 特别感谢
+> 感谢 [Astro](https://astro.build) 提供的技术支持
+>
+> 感谢 [saicaca](https://github.com/saicaca) 提供的开源模板 [fuwari](https://github.com/saicaca/fuwari)
+>::github{repo="saicaca/fuwari"}
