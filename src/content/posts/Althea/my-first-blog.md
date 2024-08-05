@@ -1,7 +1,7 @@
 ---
 title: 我的第一篇博客
 published: 2024-07-30
-description: '借助Astro上的模版，我创建了第一篇博客。'
+description: '借助 Astro 上的模版，我创建了第一篇博客。'
 image: ''
 tags: [Markdown, Althea]
 category: 'MyBlog'
