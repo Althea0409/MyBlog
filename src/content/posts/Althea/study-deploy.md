@@ -49,6 +49,6 @@ draft: false
 
 ![通过域名访问博客](../Images/deploy_08.png)
 
-## 参考
+## 参考资料
 
-Astro 官方文档：[https://docs.astro.build/zh-cn/guides/deploy/](https://docs.astro.build/zh-cn/guides/deploy/)
+> Astro 官方部署文档：[https://docs.astro.build/zh-cn/guides/deploy/](https://docs.astro.build/zh-cn/guides/deploy/)
