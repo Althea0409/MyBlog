@@ -15,9 +15,9 @@ draft: false
 
 ![创建 GitHub 仓库](../Images/deploy_01.png)
 
-### 2. 通过 GitHub 登录 netlify 账号
+### 2. 通过 GitHub 登录 Netlify 账号
 
-接着，我们直接通过 GitHub 登录 [netlify](https://www.netlify.com/) 账号。
+接着，我们直接通过 GitHub 登录 [Netlify](https://www.netlify.com/) 账号。
 
 ![登录 netlify 账号](../Images/deploy_02.png)
 
@@ -45,10 +45,10 @@ draft: false
 
 ### 6. 访问博客
 
-部署成功后，我们可以直接通过刚刚设置的属于自己的 [Netlify](https://blog-althea.netlify.app/) 域名访问博客啦！
+部署成功后，我们就可以直接通过刚刚自己设置的 Netlify 域名：[https://blog-althea.netlify.app](https://blog-althea.netlify.app) 来访问博客啦！
 
 ![通过域名访问博客](../Images/deploy_08.png)
 
 ## 参考资料
 
-> Astro 官方部署文档：[https://docs.astro.build/zh-cn/guides/deploy/](https://docs.astro.build/zh-cn/guides/deploy/)
+> Astro 官方部署文档：[https://docs.astro.build/zh-cn/guides/deploy](https://docs.astro.build/zh-cn/guides/deploy)
